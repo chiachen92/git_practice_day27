@@ -8,9 +8,17 @@ body {
   align-items: center;
   justify-content: center;
   flex-flow: column;
-  
+
 }
 ul {
   padding: 0;
   list-style: : none;
+}
+
+h1 {
+  margin: 0;
+  background-color: Turquoise;
+  color: Purple;
+  padding: 0.25em;
+  border-radius: 0.1em;
 }
