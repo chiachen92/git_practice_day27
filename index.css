@@ -4,6 +4,11 @@ body {
   height: 100vh;
 
   font-family: 'Comic Sans MS', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-flow: column;
+  
 }
 ul {
   padding: 0;
